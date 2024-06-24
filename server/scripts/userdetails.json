@@ -1,0 +1,16 @@
+{
+  "userDetails": [
+    {
+      "privateKey": "11dd65b6a11d713d167e8f76d6343901229725b910fb7f5a1d96ebaf4717f456",
+      "publicKey": "0311be9d6a71efc2e287891abfbdf42ae925b45fbdccb6315197d77a1ffaa95c7e"
+    },
+    {
+      "privateKey": "6ac3389ae76b4a721cb74f3ae8f5304835960bec06e896da43cabfb14be6dff1",
+      "publicKey": "0241822af1f2262e56ebc817af9aac7344c34c39b210f88ff24199c470752891cd"
+    },
+    {
+      "privateKey": "c6e1925adfb170860d9d3ce98786401858ab55a4ec2fdae6e16f7e1ea3859dbc",
+      "publicKey": "03a9bf1bfd793590ecea80d541175c5676cc13fa30c3aa854946c9e5ce659920df"
+    }
+  ]
+}
